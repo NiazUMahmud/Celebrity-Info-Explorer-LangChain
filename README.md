@@ -2,10 +2,8 @@
 
 This Streamlit application allows you to search for information about celebrities using the power of OpenAI's language models. It provides a quick and easy way to get insights into a celebrity's background, date of birth, and significant events surrounding that time.
 
-Blank app without any celebrity name: ![image](https://github.com/user-attachments/assets/e17e71a2-1d24-440f-b788-d06be4014d99)
-
-
-App after we put Bill Clinton as the celebrity: 
+Blank app without any celebrity name: ![image](https://github.com/user-attachments/assets/e17e71a2-1d24-440f-b788-d06be4014d99) App after we put Bill Clinton as the celebrity:
+ 
 ![image](https://github.com/user-attachments/assets/30466e93-1b2c-4349-8d08-4e05dbcfee6a)
 
 
