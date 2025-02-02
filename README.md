@@ -5,7 +5,8 @@ This Streamlit application allows you to search for information about celebritie
 Blank app without any celebrity name: ![image](https://github.com/user-attachments/assets/e17e71a2-1d24-440f-b788-d06be4014d99)
 
 
-App after we put Bill Clinton as the celebrity: ![image](https://github.com/user-attachments/assets/30466e93-1b2c-4349-8d08-4e05dbcfee6a)
+App after we put Bill Clinton as the celebrity: 
+![image](https://github.com/user-attachments/assets/30466e93-1b2c-4349-8d08-4e05dbcfee6a)
 
 
 https://github.com/user-attachments/assets/bf595451-15a5-4e4a-9798-f669757cd9d3
